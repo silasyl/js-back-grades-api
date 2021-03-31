@@ -10,6 +10,6 @@ This is a simple api with the following operations: <br><br>
 /:id GET<br>
 /calc/totalvalue GET<br>
 /calc/mean GET<br>
-/calc/top3<br><br>
+/calc/top3 GET<br><br>
 
 Future update will add cors functionality
